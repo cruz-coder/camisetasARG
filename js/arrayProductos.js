@@ -42,7 +42,7 @@ let camisetas = [
     {
         id: 5,
         nombreProducto: "Dybala",
-        precio: 2000,
+        precio: 20000,
         descipcion: "Paulo Exequiel Dybala es un futbolista argentino. Se desempeña como delantero en la A. S. Roma de la Serie A de Italia",
         catergoria: "delantero",
         oferta: true,
